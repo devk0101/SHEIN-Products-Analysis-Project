@@ -148,9 +148,12 @@ Invest in categories showing high revenue potential.
 * Data Visualization
 * Dashboard Design
 * Business Intelligence
+<img width="1107" height="820" alt="Screenshot 2026-06-17 233206" src="https://github.com/user-attachments/assets/5c959ce8-7be5-4a83-b17e-4668327aa8c9" />
 <img width="1027" height="730" alt="Screenshot 2026-06-17 221122" src="https://github.com/user-attachments/assets/7053a445-057c-454b-865a-0225a0aecb96" />
 <img width="873" height="592" alt="Screenshot 2026-06-17 221110" src="https://github.com/user-attachments/assets/410e9058-ada0-4960-9a93-6cdd2135f9ce" />
 <img width="1727" height="320" alt="Screenshot 2026-06-17 221101" src="https://github.com/user-attachments/assets/e4be8476-5aa2-4a79-9c28-99b8ceeab80a" />
+<img width="1001" height="506" alt="Screenshot 2026-06-17 230030" src="https://github.com/user-attachments/assets/cdfa0f7e-d931-42a0-aa0a-1dacc9d73e44" />
+<img width="1205" height="450" alt="Screenshot 2026-06-17 230103" src="https://github.com/user-attachments/assets/163a0116-ce55-46e0-99da-575f94fb2b0d" />
 <img width="1367" height="740" alt="Screenshot 2026-06-17 214021" src="https://github.com/user-attachments/assets/32054c3b-8d64-493f-9ccf-ce637d84a806" /> 
 
 ## 👨‍💻 Author
