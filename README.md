@@ -159,11 +159,11 @@ Invest in categories showing high revenue potential.
 ## 👨‍💻 Author
 Dev Kumar
 # Aspiring Data Analyst
-MICROSOFT Excel
-Python
-SQL
-Power BI
-Data Visualization
+* MICROSOFT Excel
+* Python
+* MySQL
+* Power BI
+* Data Visualization
 
 
 
