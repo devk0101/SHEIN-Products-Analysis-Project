@@ -1,4 +1,4 @@
-# SHEIN Products Analysis Dashboard
+<img width="580" height="496" alt="Screenshot 2026-06-20 230435" src="https://github.com/user-attachments/assets/eb11d51b-ae4f-4c83-afcb-3af12bcaa567" /># SHEIN Products Analysis Dashboard
 
 ## 📌 Project Overview
 
@@ -152,8 +152,12 @@ Invest in categories showing high revenue potential.
 <img width="1027" height="730" alt="Screenshot 2026-06-17 221122" src="https://github.com/user-attachments/assets/7053a445-057c-454b-865a-0225a0aecb96" />
 <img width="873" height="592" alt="Screenshot 2026-06-17 221110" src="https://github.com/user-attachments/assets/410e9058-ada0-4960-9a93-6cdd2135f9ce" />
 <img width="1727" height="320" alt="Screenshot 2026-06-17 221101" src="https://github.com/user-attachments/assets/e4be8476-5aa2-4a79-9c28-99b8ceeab80a" />
-<img width="1001" height="506" alt="Screenshot 2026-06-17 230030" src="https://github.com/user-attachments/assets/cdfa0f7e-d931-42a0-aa0a-1dacc9d73e44" />
-<img width="1205" height="450" alt="Screenshot 2026-06-17 230103" src="https://github.com/user-attachments/assets/163a0116-ce55-46e0-99da-575f94fb2b0d" />
+<img width="1046" height="456" alt="Screenshot 2026-06-20 230232" src="https://github.com/user-attachments/assets/da3cdcaf-1a4b-416d-9f84-c935bf266a08" />
+<img width="528" height="450" alt="Screenshot 2026-06-20 230316" src="https://github.com/user-attachments/assets/c8f2a0c9-286f-4a8e-9041-d73e8b639f30" />
+<img width="780" height="501" alt="Screenshot 2026-06-20 230355" src="https://github.com/user-attachments/assets/644ff651-5969-4abb-a150-f8de0a5feb53" />
+<img width="580" height="496" alt="Screenshot 2026-06-20 230435" src="https://github.com/user-attachments/assets/b6cac7d7-8365-43fd-8944-26018b99cb95" />
+<img width="568" height="477" alt="Screenshot 2026-06-20 230508" src="https://github.com/user-attachments/assets/d46b9c50-2088-4eb1-b641-ea0eed6c4a84" />
+<img width="600" height="497" alt="Screenshot 2026-06-20 230538" src="https://github.com/user-attachments/assets/62e16abc-48dd-469d-b5e1-1f53354d2542" />
 <img width="1367" height="740" alt="Screenshot 2026-06-17 214021" src="https://github.com/user-attachments/assets/32054c3b-8d64-493f-9ccf-ce637d84a806" /> 
 
 ## 👨‍💻 Author
