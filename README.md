@@ -1,4 +1,4 @@
-<img width="580" height="496" alt="Screenshot 2026-06-20 230435" src="https://github.com/user-attachments/assets/eb11d51b-ae4f-4c83-afcb-3af12bcaa567" /># SHEIN Products Analysis Dashboard
+## Products Analysis Dashboard
 
 ## 📌 Project Overview
 
